@@ -23,7 +23,7 @@ Education
 
 Research and Teaching Experience
 ======
-* Research Assistant, Virginia Commonwealth University, Spring 2025 to present
+* Research Assistant, Virginia Commonwealth University, Fall 2024 to present
   * Advisor: Prof. Kostadin Damevski
   * Research on multi-turn human-AI conversations, focusing on failure points and mitigation strategies
   * NLP pipelines for analyzing large-scale conversation transcripts

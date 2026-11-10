@@ -19,10 +19,10 @@ The same approach carries into my work on toxicity and conversational derailment
 News
 ======
 - **[2026]** Our paper on toxicity on GitHub at scale was published at [ASE 2026](https://doi.org/10.1145/3832783.3837505).
-- **[2026]** *Toxicity Ahead: Forecasting Conversational Derailment on GitHub* was published at ICSE 2026.
+- **[2026]** *Toxicity Ahead: Forecasting Conversational Derailment on GitHub* was published at ICSE 2026. I attended the conference in Brazil and presented the paper.
 - **[2026]** Our work on emotion recognition in VR was published in [Sensors](https://doi.org/10.3390/s26030845), and our pair programming study in [IJSEKE](https://doi.org/10.1142/S0218194026500294).
 - **[Spring 2026]** Teaching Assistant for CMSC 425/525, Intro Software Analysis and Test, at VCU.
-- **[November 2025]** Presented work on detecting natural emotions in VR at [VRST 2025](https://doi.org/10.1145/3756884.3766013).
+- **[November 2025]** Attended [VRST 2025](https://doi.org/10.1145/3756884.3766013) in Canada for our paper on detecting natural emotions in VR.
 - **[August 2024]** Started my Ph.D. in Computer Science at VCU.
 
 Education
@@ -37,7 +37,7 @@ Education
 
 Research Experience
 ======
-- Research Assistant [Spring 2025 - Present] <br>
+- Research Assistant [Fall 2024 - Present] <br>
   Department of Computer Science, Virginia Commonwealth University <br>
   Advisor: Prof. Kostadin Damevski
 - Research Assistant [September 2023 - 2024] <br>
