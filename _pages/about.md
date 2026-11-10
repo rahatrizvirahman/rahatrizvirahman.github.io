@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at [Virginia Commonwealth University](https://www.vcu.edu/), advised by Prof. Kostadin Damevski. My work sits at the intersection of natural language processing, machine learning, and empirical software engineering. Before my Ph.D., I worked as a software engineer and as a research assistant in Dhaka, Bangladesh.
+I am a Ph.D. student in Computer Science at [Virginia Commonwealth University](https://www.vcu.edu/), advised by Prof. Kostadin Damevski. My work sits at the intersection of empirical software engineering and natural language processing. Before my Ph.D., I worked as a software engineer and as a research assistant in Dhaka, Bangladesh.
 
 Research interests
 ======
-My current work focuses on **multi-turn conversations between humans and AI**. I study how these conversations unfold, what kinds of problems they run into, and how misalignment between the person and the model builds up over several turns. The goal is to reduce errors in these conversations, which includes predicting when a conversation is heading toward a failure, or when an AI-generated solution will need more work from the user.
+I work in empirical software engineering, using natural language processing to study how developers communicate and how they work with AI. My current focus is **multi-turn human-AI conversations**. I study how these conversations unfold, where they go wrong, and how misalignment builds up between the person and the model. The aim is to reduce errors by predicting when a conversation is heading toward a failure, or when an AI-generated solution will need more work.
 
-Alongside this, I work on toxicity and conversational derailment in open-source communities, and on emotion recognition in virtual reality using facial movement and audio features.
+The same approach carries into my work on toxicity and conversational derailment in open-source communities, and on emotion recognition in virtual reality using facial movement and audio features.
 
 News
 ======
