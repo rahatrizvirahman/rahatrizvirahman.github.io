@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rahat Rizvi Rahman"
 title_separator          : "-"
 name                     : &name "Rahat Rizvi Rahman"
-description              : &description "personal description"
+description              : &description "Rahat Rizvi Rahman, Ph.D. student in Computer Science at Virginia Commonwealth University, working on multi-turn human-AI conversations, mining software repositories, and emotion recognition in VR."
 url                      : https://rahatrizvirahman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rahatrizvirahman/rahatrizvirahman.github.io"
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Rahat Rizvi Rahman"
-  avatar           : "rahat_v2.jpg"
-  bio              : #"Your biography for the left-hand sidebar"
-  location         : "Dhaka, Bangladesh"
-  employer         :
+  avatar           : "rahat_2025.jpg"
+  bio              : "Ph.D. student in Computer Science, Virginia Commonwealth University"
+  location         : "Richmond, VA, USA"
+  employer         : "Virginia Commonwealth University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=q0U4d3gAAAAJ&hl=en&oi=ao"
   email            : "rahatrizvirahman@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/rahat-rizvi-rahman/"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "rahat-rizvi-rahman"
+  orcid            : "https://orcid.org/0009-0006-7143-2355"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  resume           : "https://drive.google.com/file/d/1QGPNCcb7yNTXGJ_gqJEy7GPsiKb7LCgl/view?usp=sharing"
+  resume           : "/files/Rahat_academic_cv.pdf"
   
 
 # Reading Files
@@ -182,13 +182,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -256,7 +249,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
