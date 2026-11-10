@@ -16,6 +16,17 @@ I work in empirical software engineering, using natural language processing to s
 
 The same approach carries into my work on toxicity and conversational derailment in open-source communities, and on emotion recognition in virtual reality using facial movement and audio features.
 
+Selected publications
+======
+{% include base_path %}
+{% include paper-card-style.html %}
+{% assign featured = site.publications | where: "featured", true | sort: "date" | reverse %}
+{% for post in featured %}
+{% include paper-card.html paper=post %}
+{% endfor %}
+
+[All publications]({{ base_path }}/publications/)
+
 News
 ======
 - **[2026]** Our paper on toxicity on GitHub at scale was published at [ASE 2026](https://doi.org/10.1145/3832783.3837505).

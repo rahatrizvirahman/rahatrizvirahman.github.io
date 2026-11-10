@@ -1,0 +1,12 @@
+<style>
+.paper-card { display: flex; gap: 1.5em; align-items: flex-start; margin: 0 0 1.8em; padding-bottom: 1.2em; border-bottom: 1px solid #eee; }
+.paper-card__text { flex: 1 1 55%; min-width: 0; }
+.paper-card__fig { flex: 1 1 40%; min-width: 0; }
+.paper-card__fig img { width: 100%; height: auto; border: 1px solid #eee; }
+.paper-card__title { margin: 0 0 .2em; font-size: 1.05em; }
+.paper-card__authors, .paper-card__venue { margin: 0 0 .5em; font-size: .9em; }
+.paper-card__text p { margin-bottom: .5em; }
+.paper-card--wide { flex-direction: column; }
+.paper-card--wide .paper-card__text, .paper-card--wide .paper-card__fig { flex-basis: auto; width: 100%; }
+@media (max-width: 600px) { .paper-card { flex-direction: column-reverse; } .paper-card__fig, .paper-card__text { flex-basis: auto; width: 100%; } }
+</style>

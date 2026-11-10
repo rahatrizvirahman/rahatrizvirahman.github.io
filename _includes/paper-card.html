@@ -1,0 +1,17 @@
+{%- assign p = include.paper -%}
+<div class="paper-card{% if p.figure_wide %} paper-card--wide{% endif %}">
+<div class="paper-card__text">
+<h3 class="paper-card__title"><a href="{{ base_path }}{{ p.url }}">{{ p.title }}</a></h3>
+<p class="paper-card__authors">{{ p.authors }}</p>
+<p class="paper-card__venue"><i>{{ p.venue }}</i>, {{ p.date | date: "%Y" }}{% if p.note %} &middot; {{ p.note }}{% endif %}</p>
+{%- if p.summary %}
+<p>{{ p.summary }}</p>
+{%- endif %}
+{%- if p.paperurl %}
+<p><a href="{{ p.paperurl }}">DOI</a></p>
+{%- endif %}
+</div>
+{%- if p.figure %}
+<div class="paper-card__fig"><img src="{{ base_path }}/images/papers/{{ p.figure }}" alt="{{ p.figure_alt }}"></div>
+{%- endif %}
+</div>
